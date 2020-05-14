@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1588209546822" clover="3.2.0">
-  <project timestamp="1588209546822" name="All files">
+<coverage generated="1589446173165" clover="3.2.0">
+  <project timestamp="1589446173165" name="All files">
     <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="10" coveredmethods="10" elements="28" coveredelements="28" complexity="0" loc="12" ncloc="12" packages="1" files="3" classes="3"/>
-    <file name="alert.vue" path="/Users/qingcheng/Desktop/workspace/xfl/lerna-test/packages/jest-test/src/alert.vue">
+    <file name="alert.vue" path="D:\workspaces\xfl\lerna-test\packages\jest-test\src\alert.vue">
       <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7"/>
       <line num="44" count="1" type="stmt"/>
       <line num="78" count="2" type="stmt"/>
@@ -14,12 +14,12 @@
       <line num="101" count="1" type="cond" truecount="2" falsecount="0"/>
       <line num="104" count="1" type="cond" truecount="2" falsecount="0"/>
     </file>
-    <file name="sum.js" path="/Users/qingcheng/Desktop/workspace/xfl/lerna-test/packages/jest-test/src/sum.js">
+    <file name="sum.js" path="D:\workspaces\xfl\lerna-test\packages\jest-test\src\sum.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
     </file>
-    <file name="user.js" path="/Users/qingcheng/Desktop/workspace/xfl/lerna-test/packages/jest-test/src/user.js">
+    <file name="user.js" path="D:\workspaces\xfl\lerna-test\packages\jest-test\src\user.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="4" count="1" type="stmt"/>
     </file>

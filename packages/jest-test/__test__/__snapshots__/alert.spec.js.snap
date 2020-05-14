@@ -1,9 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Alert test create 1`] = `
-<div role="alert" class="el-alert el-alert--info is-light"><i class="el-alert__icon el-icon-info"></i>
-  <div class="el-alert__content"><span class="el-alert__title">I am a title</span>
-    <!---->
-    <!----> <i class="el-alert__closebtn el-icon-close"></i></div>
-</div>
+<transition-stub name="el-alert-fade">
+  <div role="alert" class="el-alert el-alert--info is-light"><i class="el-alert__icon el-icon-info"></i>
+    <div class="el-alert__content"><span class="el-alert__title">I am a title</span>
+      <!---->
+      <!----> <i class="el-alert__closebtn el-icon-close"></i></div>
+  </div>
+</transition-stub>
 `;

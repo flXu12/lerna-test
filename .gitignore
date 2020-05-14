@@ -5,7 +5,7 @@ node_modules
 .*.swp
 vue.config.js
 dist/
-
+**/coverage/
 
 .tmp
 

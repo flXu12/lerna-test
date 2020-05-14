@@ -1,5 +1,5 @@
 TN:
-SF:src/alert.vue
+SF:src\alert.vue
 FN:77,validator
 FN:82,data
 FN:88,close
@@ -37,7 +37,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:src/sum.js
+SF:src\sum.js
 FN:1,sum
 FNF:1
 FNH:1
@@ -50,7 +50,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src/user.js
+SF:src\user.js
 FN:3,getUserData
 FN:4,(anonymous_1)
 FNF:2
